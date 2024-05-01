@@ -1,17 +1,17 @@
 {
-  "name": "material-kit-2-react",
+  "name": "nary-portfolio",
   "version": "2.1.0",
-  "private": true,
+  "private": false,
   "author": "Creative Tim",
-  "license": "See license in https://www.creative-tim.com/license",
+  "license": "MIT",
   "description": "React version of Material Kit 2 by Creative Tim",
-  "homepage": "https://demos.creative-tim.com/material-kit-react/#/",
+  "homepage": "https://demos.https://phachannary.github.io/nary-portfolio//#/",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
+    "url": "https://github.com/phachannary/nary-portfolio/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/ct-material-kit-react.git"
+    "url": "git+https://github.com/phachannary/nary-portfolio.git"
   },
   "dependencies": {
     "@emotion/cache": "11.10.7",
